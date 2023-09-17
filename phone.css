@@ -1,0 +1,13 @@
+
+#home{
+
+}
+#services{
+    flex-direction:column;
+}
+#services.box{
+
+}
+#navbar{
+    flex-direction:column;
+}
